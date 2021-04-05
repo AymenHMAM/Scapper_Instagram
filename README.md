@@ -2,11 +2,11 @@
 
 by Aymen HMAM
 
-Etablir un connecteur à Instagram (texte et commentaires liés à l'image) qui collecte des commentaires un sujet choisi
+* Etablir un connecteur à Instagram qui collecte les textes, les commentaires est  les images sur à un sujet choisi.
 
-dans ce projet: le sujet choisi est le décès du président Jacques Chirac. 
+* dans ce projet: le sujet choisi est le décès du président Jacques Chirac. 
 
-les textes et les images dans une base MongoDB.
+* Les données sont stockées  dans une base MongoDB.
 
 
  
