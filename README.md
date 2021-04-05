@@ -8,5 +8,7 @@ by Aymen HMAM
 
 * Les données sont stockées  dans une base MongoDB.
 
+(https://github.com/AymenHMAM/Scapper_Instagram/files/6259156/Question_3_test_deep_learning_.HMAM.pdf)
+
 
  
